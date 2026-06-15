@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-sombra-en-mi-pared/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu sombra en mi pared](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-sombra-en-mi-pared/) |
+| **Get License** | [Get a Licensing Quote for Tu sombra en mi pared](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-sombra-en-mi-pared/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu sombra baila sola en mi pared
+> Me tienes con locura y con mucha sed
+> La noche pide fuego, tú tienes la llave
+> Acércate un poquito, que el ritmo no acabe
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
